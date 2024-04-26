@@ -138,15 +138,16 @@ class QueryArea extends Component {
                   <select className="dropdown-refined"
                           onChange={this.props.onRefinedFieldChange}>
                     <option value="card-text">Card Text</option>
-                    <option value="effect-name">Effect name</option>
-                    <option value="effect-text">Effect text</option>
-                    <option value="power-name">Power name</option>
-                    <option value="power-text">Power text</option>
+                    <option value="effect-name">Effect Name</option>
+                    <option value="effect-text">Effect Text</option>
+                    <option value="power-name">Power Name</option>
+                    <option value="power-text">Power Text</option>
+                    <option value="starting-card">Starting Card</option>
                     <option value="subtype">Subtype</option>
                     <option value="energize">Energize</option>
-                    <option value="flavor-text">Flavor text</option>
+                    <option value="flavor-text">Flavor Text</option>
                     <option value="artist">Artist</option>
-                    <option value="whole-card">Whole card</option>
+                    <option value="whole-card">Whole Card</option>
                   </select>
                 </td>
                 <td>contains:</td>
@@ -740,6 +741,10 @@ class App extends Component {
         results = results.filter(
           card => card.powers && card.powers.some(
             power => power.text && power.text.toLowerCase().includes(text)))
+      }
+      else if (this.state.refinedSearchField === 'starting-card') {
+        results = results.filter(
+            card => card.starting && card.starting.join(" ").toLowerCase().includes(text));
       }
       else if (this.state.refinedSearchField === 'subtype') {
         results = results.filter(
