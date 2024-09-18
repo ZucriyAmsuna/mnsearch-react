@@ -4025,7 +4025,7 @@
   subtype: Captain of the Guard
   cost: 15
   energize: 6
-  startin:
+  starting:
     - Speag
     - Uwamar
     - Yajo

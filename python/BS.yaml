@@ -283,7 +283,7 @@
     - Xyx Elder
     - Lightning
     - Shooting Star
-  effect:
+  effects:
     - name: Spite
       text: >
         If Jaela is defeated, discard one energy from each Creature in play.
@@ -2526,7 +2526,7 @@
     - Agovo
     - Crystal Arboll
     - Gloves of Crystal
-  power:
+  powers:
     - name: Undream
       cost: 1
       text: >
