@@ -609,7 +609,7 @@
   cost: 1
   text: >
     Choose an opposing Magi and attach Singed Pride to it. After that Magi's
-    owner draws a card outside his or her Draw step, you may discard Singed
+    owner draws a card outside of his or her Draw step, you may discard Singed
     Pride from play to remove three energy from that Magi. You may not discard
     more than one Singed Pride per card drawn.
   flavor: Sometimes the price of knowledge is too high.
@@ -2062,7 +2062,7 @@
     - name: Morale Boost
       text: >
         Increase your energize by one. Draw an extra card during your Draw
-        Step.
+        step.
   flavor: |
     The Scarletsong Banner brings joy for the taking.
     -- Ancient Inscription
