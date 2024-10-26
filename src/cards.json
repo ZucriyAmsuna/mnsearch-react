@@ -6461,7 +6461,7 @@
     {
         "artist": "Werner",
         "cost": 1,
-        "flavor": "\"Burn, baby, burn!\"\n-- Inscription on Disc of Inferno\n",
+        "flavor": "\"Burn, baby, burn!\"\n-- inscription on Disc of Inferno\n",
         "image": "/cardimages/TR/Disc_of_Inferno.jpg",
         "key": 401,
         "name": "Disc of Inferno",
@@ -6470,7 +6470,7 @@
             {
                 "cost": 2,
                 "name": "Hotfoot",
-                "text": "Choose an opposing Creature. Remove one energy from it for each opposing Creature in play.\n"
+                "text": "Choose an opposing Creature. Remove one energy from it for each other opposing Creature in play.\n"
             }
         ],
         "rarity": "U",

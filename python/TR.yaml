@@ -568,10 +568,10 @@
       cost: 2
       text: >
         Choose an opposing Creature. Remove one energy from it for each
-        opposing Creature in play.
+        other opposing Creature in play.
   flavor: |
     "Burn, baby, burn!"
-    -- Inscription on Disc of Inferno
+    -- inscription on Disc of Inferno
   artist: Werner
   rarity: U
 
