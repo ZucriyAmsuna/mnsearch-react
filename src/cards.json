@@ -3448,7 +3448,7 @@
     {
         "artist": "Werner, Gillette, Goodman",
         "cost": 2,
-        "flavor": "After Agram's defeat, a fire team of Cald Magi pursued the feeling Shadow Magi into the Weave. No one foresaw the destruction they would cause.\n",
+        "flavor": "After Agram's defeat, a fire team of Cald Magi pursued the fleeing Shadow Magi into the Weave. No one foresaw the destruction they would cause.\n",
         "image": "/cardimages/ND/Brushfire_CA.jpg",
         "key": 946,
         "name": "Brushfire",
@@ -10239,7 +10239,7 @@
                 "text": "Whenever you discard all of an opposing Creature's energy with a Spell or Power, draw one card.\n"
             }
         ],
-        "flavor": "You looking at me...?",
+        "flavor": "\"You looking at me...?\"",
         "image": "/cardimages/AW/Gorgles_Glasses.jpg",
         "key": 546,
         "name": "Gorgle's Glasses",
@@ -18731,7 +18731,7 @@
         ],
         "set": "DE",
         "subtype": "Shadow Geyser",
-        "text": "The energy cost for this Geyser is zero if played by an Orothe Shadow Magi. In order to play this Geyser, you must discard three of your Core Relics from play. Place this Geyser on the table. Opponents must pay two additional energy to play or use Powers on Orothe and Universal relics. Whenever you play a Core Relic, each of your opponent's discards one card from their hands. You may not play another Orothe Shadow Geyser while this one is in play. If your Magi leaves play, you may keep all but one of your Shadow Geysers in play. Agram does not discard any Shadow Geysers from play when he leaves play.\n",
+        "text": "The energy cost for this Geyser is zero if played by an Orothe Shadow Magi. In order to play this Geyser, you must discard three of your Core Relics from play. Place this Geyser on the table. Opponents must pay two additional energy to play or use Powers on Orothe and Universal relics. Whenever you play a Core Relic, each of your opponents discards one card from their hands. You may not play another Orothe Shadow Geyser while this one is in play. If your Magi leaves play, you may keep all but one of your Shadow Geysers in play. Agram does not discard any Shadow Geysers from play when he leaves play.\n",
         "type": "Spell"
     },
     {
