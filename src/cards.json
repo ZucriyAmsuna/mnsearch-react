@@ -12520,8 +12520,8 @@
         "cost": 8,
         "effects": [
             {
-                "cost": "If your Magi's Energize is greater than each opposing Magi's, Ice Hyren gains ENERGIZE: 1.\n",
-                "name": "Shared Strength"
+                "name": "Shared Strength",
+                "text": "If your Magi's Energize is greater than each opposing Magi's, Ice Hyren gains ENERGIZE: 1.\n"
             },
             {
                 "name": "Ravage",

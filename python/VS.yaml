@@ -2919,7 +2919,7 @@
   cost: 8
   effects:
     - name: Shared Strength
-      cost: >
+      text: >
         If your Magi's Energize is greater than each opposing Magi's, Ice
         Hyren gains ENERGIZE: 1.
     - name: Ravage
