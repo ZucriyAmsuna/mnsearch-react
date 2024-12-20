@@ -501,8 +501,7 @@ class RadioButtonGroup extends Component {
 class About extends Component {
   render() {
     return (
-      <div className="About">
-        <a name="about" />
+      <div id="about" className="About">
         <div>
           <p><strong>Magi-Nation Search version {VERSION}</strong></p>
           <p>Magi-Nation Search was written by&nbsp;
