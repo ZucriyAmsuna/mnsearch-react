@@ -1788,6 +1788,8 @@
   starting:
     - "[One Core Relic]"
     - "[One Orothe Relic]"
+  text:
+    - Bria, Relic Hunter may play Core Relics.
   effects:
     - name: Desire
       text: >
