@@ -3421,7 +3421,7 @@
             "Barqua's Bubble",
             "Hubdra's Chest"
         ],
-        "text": "Brothers of Vengeance counts as two Magi.",
+        "text": "Brothers of Vengeance count as two Magi.",
         "type": "Magi"
     },
     {
@@ -11193,7 +11193,7 @@
             {
                 "cost": 3,
                 "name": "Dreamsynch",
-                "text": "Discard Grotto Phrup from play. Powers and Effects on opposing Relics currently in play may not be used until the beginning of your next turn. All ongoing Effects on opposing Relics in play are cancelled.\n"
+                "text": "Discard Grotto Phrup from play. Powers and Effects on opposing Relics currently in play may not be used until the beginning of your next turn. All ongoing Effects on opposing Relics in play are canceled.\n"
             }
         ],
         "rarity": "U",
@@ -13282,7 +13282,7 @@
             "Arderial"
         ],
         "set": "VS",
-        "text": "Play an Arderial Creature from your hand with a starting energy of three or less, ignorng all costs. That Creature cannot gain energy this turn.\n",
+        "text": "Play an Arderial Creature from your hand with a starting energy of three or less, ignoring all costs. That Creature cannot gain energy this turn.\n",
         "type": "Spell"
     },
     {
@@ -23214,7 +23214,7 @@
             "Orothe"
         ],
         "set": "DE",
-        "text": "Until the end of your next turn, your Orothe Creatures in play are not affected by opposing Spells and Powers. If an opponent's Power, Spell, or Effect discards one or more cards from your hand, you may discard Shell from your hand instead. If you do, discard all of that opponent's Relics in play. All ongoing Powers and Effects of those Relics are cancelled.\n",
+        "text": "Until the end of your next turn, your Orothe Creatures in play are not affected by opposing Spells and Powers. If an opponent's Power, Spell, or Effect discards one or more cards from your hand, you may discard Shell from your hand instead. If you do, discard all of that opponent's Relics in play. All ongoing Powers and Effects of those Relics are canceled.\n",
         "type": "Spell"
     },
     {
@@ -26718,7 +26718,7 @@
         "starting": [
             "Koil",
             "Shadow Vinoc",
-            "[Any one Shadow Geyser]"
+            "[any one Shadow Geyser]"
         ],
         "subtype": "Practitioner of Core Magics -- The General",
         "type": "Magi"
@@ -29040,7 +29040,7 @@
         "set": "ND",
         "starting": [
             "Hurricane Orish",
-            "[One Arderial or Orothe Relic]"
+            "[one Arderial or Orothe Relic]"
         ],
         "type": "Magi"
     },
@@ -29068,7 +29068,7 @@
         "set": "ND",
         "starting": [
             "Hurricane Orish",
-            "[One Arderial or Orothe Relic]"
+            "[one Arderial or Orothe Relic]"
         ],
         "type": "Magi"
     },

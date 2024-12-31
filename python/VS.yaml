@@ -198,7 +198,7 @@
   cost: 2
   text: >
     Play an Arderial Creature from your hand with a starting energy of three
-    or less, ignorng all costs. That Creature cannot gain energy this turn.
+    or less, ignoring all costs. That Creature cannot gain energy this turn.
   flavor: |
     "One ticket for the Beatdown Express, coming up!"
     -- Kalius
@@ -4253,7 +4253,7 @@
     - Coral Hyren
     - Barqua's Bubble
     - Hubdra's Chest
-  text: Brothers of Vengeance counts as two Magi.
+  text: Brothers of Vengeance count as two Magi.
   powers:
     - name: We're Back
       cost: 1
