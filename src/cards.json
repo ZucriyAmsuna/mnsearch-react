@@ -5182,7 +5182,7 @@
         ],
         "set": "VS",
         "shadow_play": "d'Resh",
-        "text": "Choose an opposing Creature. Discard four energy from the chosen Creature. If this discards that Creature from play, discard one energy from ech of that player's Creatures. Only d'Resh Magi and d'Resh Shadow Magi can play Crushing Sands.\n",
+        "text": "Choose an opposing Creature. Discard four energy from the chosen Creature. If this discards that Creature from play, discard one energy from each of that player's Creatures. Only d'Resh Magi and d'Resh Shadow Magi can play Crushing Sands.\n",
         "type": "Spell"
     },
     {
