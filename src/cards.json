@@ -5579,7 +5579,7 @@
         ],
         "set": "ND",
         "shadow_play": "Orothe, Paradwyn",
-        "text": "Choose any one of your Orothe or Paradwyn Creatures in play. Until the end of the turn, the chosen Creature gains the text: \"Power -- Possess: Choose any one opposing Creature in play with less energy than this Creature. Discard this Creature from play. Gain control of the chosen Creature. That Creature cannot attack this turn.\" Orothe Shadow Magi and Paradwyn Shadow Magi can play Curse of the Abaquist.\n",
+        "text": "Choose any one of your Orothe or Paradwyn Creatures in play. Until the end of the turn, the chosen Creature gains the text: \"Power - Possess: Choose any one opposing Creature in play with less energy than this Creature. Discard this Creature from play. Gain control of the chosen Creature. That Creature cannot attack this turn.\" Orothe Shadow Magi and Paradwyn Shadow Magi can play Curse of the Abaquist.\n",
         "type": "Spell"
     },
     {
@@ -5597,7 +5597,7 @@
         ],
         "set": "ND",
         "shadow_play": "Orothe, Paradwyn",
-        "text": "Choose any one of your Orothe or Paradwyn Creatures in play. Until the end of the turn, the chosen Creature gains the text: \"Power -- Possess: Choose any one opposing Creature in play with less energy than this Creature. Discard this Creature from play. Gain control of the chosen Creature. That Creature cannot attack this turn.\" Orothe Shadow Magi and Paradwyn Shadow Magi can play Curse of the Abaquist.\n",
+        "text": "Choose any one of your Orothe or Paradwyn Creatures in play. Until the end of the turn, the chosen Creature gains the text: \"Power - Possess: Choose any one opposing Creature in play with less energy than this Creature. Discard this Creature from play. Gain control of the chosen Creature. That Creature cannot attack this turn.\" Orothe Shadow Magi and Paradwyn Shadow Magi can play Curse of the Abaquist.\n",
         "type": "Spell"
     },
     {
@@ -6019,7 +6019,7 @@
             "Bograth"
         ],
         "set": "ND",
-        "text": "Until the end of the turn, all of your Bograth Creatures in play gain \"Power -- Darkness: Discard this Creature from play. Choose an opposing Creature in play. Discard the chosen Creature from play. Use this Power only before your Attack Step.\"\n",
+        "text": "Until the end of the turn, all of your Bograth Creatures in play gain \"Power - Darkness: Discard this Creature from play. Choose an opposing Creature in play. Discard the chosen Creature from play. Use this Power only before your Attack Step.\"\n",
         "type": "Spell"
     },
     {
@@ -7595,7 +7595,7 @@
         "effects": [
             {
                 "name": "Ignite",
-                "text": "While Ergar is in play, each of your Cald Creatures in play gains the following text: \"Power -- Spark: (1) Choose any one Creature or Magi in play. Discard one energy from the chosen Creature or Magi.\"\n"
+                "text": "While Ergar is in play, each of your Cald Creatures in play gains the following text: \"Power - Spark: (1) Choose any one Creature or Magi in play. Discard one energy from the chosen Creature or Magi.\"\n"
             }
         ],
         "flavor": "\"Who would you like to get blasted by today?\"\n-- Barak, Cald Warlord\n",
@@ -10567,11 +10567,11 @@
         "effects": [
             {
                 "name": "Weaver",
-                "text": "All of your Paradwyn Creatures gain \"Effect -- Weave: Whenever this Creature attacks or is attacked, before energy is removed, you may move one energy between this Creature and any one of your other Paradwyn or Weave Creatures in play.\"\n"
+                "text": "All of your Paradwyn Creatures gain \"Effect - Weave: Whenever this Creature attacks or is attacked, before energy is removed, you may move one energy between this Creature and any one of your other Paradwyn or Weave Creatures in play.\"\n"
             },
             {
                 "name": "Dreamwarper",
-                "text": "All of your Weave Creatures in play and being played gain \"Effect -- Dreamwarp: As you play this Creature, increase or decrease its starting energy by up to one, to a minimum starting energy of one, until the end of the turn.\"\n"
+                "text": "All of your Weave Creatures in play and being played gain \"Effect - Dreamwarp: As you play this Creature, increase or decrease its starting energy by up to one, to a minimum starting energy of one, until the end of the turn.\"\n"
             }
         ],
         "flavor": "\"Our strengths could work well together, but Gia is too busy negotiating\nwith the Dark Twins.\"\n-- M'lady Iyori, emissary to Paradwyn\n",
@@ -10593,11 +10593,11 @@
         "effects": [
             {
                 "name": "Weaver",
-                "text": "All of your Paradwyn Creatures gain \"Effect -- Weave: Whenever this Creature attacks or is attacked, before energy is removed, you may move one energy between this Creature and any one of your other Paradwyn or Weave Creatures in play.\"\n"
+                "text": "All of your Paradwyn Creatures gain \"Effect - Weave: Whenever this Creature attacks or is attacked, before energy is removed, you may move one energy between this Creature and any one of your other Paradwyn or Weave Creatures in play.\"\n"
             },
             {
                 "name": "Dreamwarper",
-                "text": "All of your Weave Creatures in play and being played gain \"Effect -- Dreamwarp: As you play this Creature, increase or decrease its starting energy by up to one, to a minimum starting energy of one, until the end of the turn.\"\n"
+                "text": "All of your Weave Creatures in play and being played gain \"Effect - Dreamwarp: As you play this Creature, increase or decrease its starting energy by up to one, to a minimum starting energy of one, until the end of the turn.\"\n"
             }
         ],
         "flavor": "\"Our strengths could work well together, but Gia is too busy negotiating\nwith the Dark Twins.\"\n-- M'lady Iyori, emissary to Paradwyn\n",
@@ -17640,7 +17640,7 @@
             {
                 "cost": 3,
                 "name": "Horrible Dreams",
-                "text": "Choose an opposing Creature. The chosen Creature gains 'Effect -- Toss and Turn: At the beginning of your turn, discard one energy from your Magi and each of your Creatures in play. This Creature removes two less energy from Core Creatures in attacks.'\n"
+                "text": "Choose an opposing Creature. The chosen Creature gains 'Effect - Toss and Turn: At the beginning of your turn, discard one energy from your Magi and each of your Creatures in play. This Creature removes two less energy from Core Creatures in attacks.'\n"
             }
         ],
         "rarity": "P",
@@ -18249,7 +18249,7 @@
             "Nar"
         ],
         "set": "ND",
-        "text": "Choose any one of your Creatures in play. Discard the chosen Creature from play. Until the end of your next turn, all of your Creatures in play gain \"Effect -- Chill: Whenever this Creature attacks, it removes two additional energy from the defending Creature.\"\n",
+        "text": "Choose any one of your Creatures in play. Discard the chosen Creature from play. Until the end of your next turn, all of your Creatures in play gain \"Effect - Chill: Whenever this Creature attacks, it removes two additional energy from the defending Creature.\"\n",
         "type": "Spell"
     },
     {
@@ -18266,7 +18266,7 @@
             "Bograth"
         ],
         "set": "ND",
-        "text": "Choose any one of your Creatures in play. Discard the chosen Creature from play. Until the end of your next turn, all of your Creatures in play gain \"Effect -- Chill: Whenever this Creature attacks, it removes two additional energy from the defending Creature.\"\n",
+        "text": "Choose any one of your Creatures in play. Discard the chosen Creature from play. Until the end of your next turn, all of your Creatures in play gain \"Effect - Chill: Whenever this Creature attacks, it removes two additional energy from the defending Creature.\"\n",
         "type": "Spell"
     },
     {
@@ -20553,7 +20553,7 @@
         "starting": [
             "[Two different Universal cards]"
         ],
-        "text": "You can play with more than one copy of Rayje in yur deck. When you reveal Rayje, he gains all Powers and Effects on all of your defeated Rayjes and any one other of the following Powers or Effects until the end of the game: \"Power -- Aid: Move one energy from one Creature to another\", \"Effect -- Lore: During your draw step, draw an additional card\", \"Effect -- Defense: Whenever one of your Creatures is attacked, add one energy to it before energy is removed\", \"Effect -- Wily: Once per turn, instead of drawing a card, place any one Spell from your discard pile into your hand\", \"Effect -- Charge: Whenever one of your Creatures attacks, add one energy to it before energy is removed\".\n",
+        "text": "You can play with more than one copy of Rayje in yur deck. When you reveal Rayje, he gains all Powers and Effects on all of your defeated Rayjes and any one other of the following Powers or Effects until the end of the game: \"Power - Aid: Move one energy from one Creature to another\", \"Effect - Lore: During your draw step, draw an additional card\", \"Effect - Defense: Whenever one of your Creatures is attacked, add one energy to it before energy is removed\", \"Effect - Wily: Once per turn, instead of drawing a card, place any one Spell from your discard pile into your hand\", \"Effect - Charge: Whenever one of your Creatures attacks, add one energy to it before energy is removed\".\n",
         "type": "Magi"
     },
     {
@@ -24471,7 +24471,7 @@
             "Naroom"
         ],
         "set": "VS",
-        "text": "You may play this card only when your Naroom Magi is defeated on an opponent's turn. Discard a card from your hand. When you reveal your next Magi, it permanently gains \"Effect -- Eternal Vigor: Whenever one of your Naroom Creatures is discarded from play by an opposing card, add one energy to your Magi.\" You can only play one Spirit Spell per Magi defeated.\n",
+        "text": "You may play this card only when your Naroom Magi is defeated on an opponent's turn. Discard a card from your hand. When you reveal your next Magi, it permanently gains \"Effect - Eternal Vigor: Whenever one of your Naroom Creatures is discarded from play by an opposing card, add one energy to your Magi.\" You can only play one Spirit Spell per Magi defeated.\n",
         "type": "Spell"
     },
     {
@@ -24487,7 +24487,7 @@
             "Underneath"
         ],
         "set": "VS",
-        "text": "You may play this card only when your Underneath Magi is defeated on an opponent's turn. Discard a card from your hand. When you reveal your next Magi, it gains \"Effect -- Resilience: At the beginning of your turn, if you have fewer Creatures in play than any opponent, add two enery to your Magi.\" You can only play one Spirit Spell per Magi defeated.\n",
+        "text": "You may play this card only when your Underneath Magi is defeated on an opponent's turn. Discard a card from your hand. When you reveal your next Magi, it gains \"Effect - Resilience: At the beginning of your turn, if you have fewer Creatures in play than any opponent, add two enery to your Magi.\" You can only play one Spirit Spell per Magi defeated.\n",
         "type": "Spell"
     },
     {
@@ -24583,7 +24583,7 @@
             "Kybar's Teeth"
         ],
         "set": "VS",
-        "text": "You may play this card only when your Kybar's Teeth Magi is defeated on an opponent's turn. Discard a card from your hand. When you reveal your next Magi, it gains \"Effect -- Tough Stuff: Whenever this Magi loses energy from an opposing card, it loses two less energy.\" You can only play one Spirit Spell per Magi defeated.\n",
+        "text": "You may play this card only when your Kybar's Teeth Magi is defeated on an opponent's turn. Discard a card from your hand. When you reveal your next Magi, it gains \"Effect - Tough Stuff: Whenever this Magi loses energy from an opposing card, it loses two less energy.\" You can only play one Spirit Spell per Magi defeated.\n",
         "type": "Spell"
     },
     {
@@ -24795,7 +24795,7 @@
         "effects": [
             {
                 "name": "imbue",
-                "text": "All of your Creatures in play gain \"Power -- Strengthen: (1) Choose any one Creature in play. Add one energy to the chosen Creature.\"\n"
+                "text": "All of your Creatures in play gain \"Power - Strengthen: (1) Choose any one Creature in play. Add one energy to the chosen Creature.\"\n"
             }
         ],
         "flavor": "The set of Vine relics was split up untold years ago, and neither Naroom nor Paradwyn has ever wanted to part with their relic since.\n",

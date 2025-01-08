@@ -335,7 +335,7 @@
     - name: Ignite
       text: >
         While Ergar is in play, each of your Cald Creatures in play gains the
-        following text: "Power -- Spark: (1) Choose any one Creature or Magi
+        following text: "Power - Spark: (1) Choose any one Creature or Magi
         in play. Discard one energy from the chosen Creature or Magi."
   flavor: |
     "Who would you like to get blasted by today?"

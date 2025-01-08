@@ -320,7 +320,7 @@
     - name: Horrible Dreams
       cost: 3
       text: >
-        Choose an opposing Creature. The chosen Creature gains 'Effect -- Toss
+        Choose an opposing Creature. The chosen Creature gains 'Effect - Toss
         and Turn: At the beginning of your turn, discard one energy from your
         Magi and each of your Creatures in play. This Creature removes two
         less energy from Core Creatures in attacks.'

@@ -1511,7 +1511,7 @@
   cost: 7
   text: >
     Until the end of the turn, all of your Bograth Creatures in play gain
-    "Power -- Darkness: Discard this Creature from play. Choose an opposing
+    "Power - Darkness: Discard this Creature from play. Choose an opposing
     Creature in play. Discard the chosen Creature from play. Use this Power
     only before your Attack Step."
   flavor: |
@@ -1556,7 +1556,7 @@
   text: >
     Choose any one of your Creatures in play. Discard the chosen Creature from
     play. Until the end of your next turn, all of your Creatures in play gain
-    "Effect -- Chill: Whenever this Creature attacks, it removes two
+    "Effect - Chill: Whenever this Creature attacks, it removes two
     additional energy from the defending Creature."
   flavor: |
     "It's cold in here."
@@ -3268,7 +3268,7 @@
   cost: 4
   text: >
     Choose any one of your Orothe or Paradwyn Creatures in play. Until the end
-    of the turn, the chosen Creature gains the text: "Power -- Possess: Choose
+    of the turn, the chosen Creature gains the text: "Power - Possess: Choose
     any one opposing Creature in play with less energy than this Creature.
     Discard this Creature from play. Gain control of the chosen Creature. That
     Creature cannot attack this turn."
@@ -3394,13 +3394,13 @@
   effects:
     - name: Weaver
       text: >
-        All of your Paradwyn Creatures gain "Effect -- Weave: Whenever this
+        All of your Paradwyn Creatures gain "Effect - Weave: Whenever this
         Creature attacks or is attacked, before energy is removed, you may
         move one energy between this Creature and any one of your other
         Paradwyn or Weave Creatures in play."
     - name: Dreamwarper
       text: >
-        All of your Weave Creatures in play and being played gain "Effect --
+        All of your Weave Creatures in play and being played gain "Effect -
         Dreamwarp: As you play this Creature, increase or decrease its
         starting energy by up to one, to a minimum starting energy of one,
         until the end of the turn."
@@ -4187,7 +4187,7 @@
   effects:
     - name: imbue
       text: >
-        All of your Creatures in play gain "Power -- Strengthen: (1) Choose
+        All of your Creatures in play gain "Power - Strengthen: (1) Choose
         any one Creature in play. Add one energy to the chosen Creature."
   flavor: >
     The set of Vine relics was split up untold years ago, and neither Naroom
@@ -4561,12 +4561,12 @@
     You can play with more than one copy of Rayje in yur deck. When you reveal
     Rayje, he gains all Powers and Effects on all of your defeated Rayjes and
     any one other of the following Powers or Effects until the end of the
-    game: "Power -- Aid: Move one energy from one Creature to another",
-    "Effect -- Lore: During your draw step, draw an additional card", "Effect
+    game: "Power - Aid: Move one energy from one Creature to another",
+    "Effect - Lore: During your draw step, draw an additional card", "Effect
     -- Defense: Whenever one of your Creatures is attacked, add one energy to
-    it before energy is removed", "Effect -- Wily: Once per turn, instead of
+    it before energy is removed", "Effect - Wily: Once per turn, instead of
     drawing a card, place any one Spell from your discard pile into your
-    hand", "Effect -- Charge: Whenever one of your Creatures attacks, add one
+    hand", "Effect - Charge: Whenever one of your Creatures attacks, add one
     energy to it before energy is removed".
   flavor: |
     "Rayje? Rayje? No, he's just a legend."
