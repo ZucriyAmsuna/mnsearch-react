@@ -14,8 +14,9 @@
         removed.
     - name: Dreamwarp
       text: >
-        As you play Aerial Flist, increase or decrease its starting energy o
-        one, until the end of the turn.
+        As you play Aerial Flist, increase or decrease its starting energy
+        by up to one, to a minimum starting energy of one,
+        until the end of the turn.
   flavor: |
     "They fly like a feather and land like a rock."
     -- Wence, Adventurer
