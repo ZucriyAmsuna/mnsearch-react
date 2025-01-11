@@ -1606,7 +1606,7 @@
     - Vortex of Knowledge
   powers:
     - name: Exchange
-      text: Discard any one Creature card from your hand. Draw two cards.
+      text: Discard any one Creature card from your hand. Draw one card.
     - name: Scrounge
       text: Discard any one Relic card from your hand. Draw two cards.
   flavor: >
