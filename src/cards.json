@@ -27250,7 +27250,7 @@
         "effects": [
             {
                 "name": "Maximum Warp",
-                "text": "Whenever one of your Creatures uses the effect 'Dreamwarp', you may Dreamwarp for an additional energy.\n"
+                "text": "Whenever one of your Creatures uses the effect "Dreamwarp", you may Dreamwarp for an additional energy.\n"
             },
             {
                 "name": "Dreamwarp",
@@ -28924,7 +28924,7 @@
         "effects": [
             {
                 "name": "Dream Tap",
-                "text": "Whenever one of your other Creatures uses the Effect 'Dreamwarp', add one energy to Vine Hyren.\n"
+                "text": "Whenever one of your other Creatures uses the Effect \"Dreamwarp\", add one energy to Vine Hyren.\n"
             },
             {
                 "name": "Dreamwarp",

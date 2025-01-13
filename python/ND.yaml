@@ -3696,7 +3696,7 @@
   effects:
     - name: Maximum Warp
       text: >
-        Whenever one of your Creatures uses the effect 'Dreamwarp', you may
+        Whenever one of your Creatures uses the effect "Dreamwarp", you may
         Dreamwarp for an additional energy.
     - name: Dreamwarp
       text: >
@@ -3738,7 +3738,7 @@
   effects:
     - name: Dream Tap
       text: >
-        Whenever one of your other Creatures uses the Effect 'Dreamwarp', add
+        Whenever one of your other Creatures uses the Effect "Dreamwarp", add
         one energy to Vine Hyren.
     - name: Dreamwarp
       text: >
