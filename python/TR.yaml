@@ -1411,7 +1411,7 @@
   effects:
     - name: Waste Not
       text: >
-        At the end of each turn, each players shuffles his or her discard pile
+        At the end of each turn, each player shuffles his or her discard pile
         into his or her deck.
     - name: Want Not
       text: >
