@@ -24551,7 +24551,7 @@
             "Core"
         ],
         "set": "VS",
-        "text": "You may play this card only when your Core Magi is defeated on an opponent's turn. Discard a card from your hand. When you reveal your next Magi, choose an opposing Creature. Gain control of the chosen Creature, and restore it to its starting energy. The chosen Creature becomes Core instead of its original region(s), and cannot attack this turn. You can only play one Spirit Spell per Magi defeated.\n",
+        "text": "You may play this card only when your Core Magi is defeated on an opponent's turn. Discard a card from your hand. When you reveal your next Magi, choose an opposing Creature. Gain control of the chosen Creature, and restore it to its starting energy. The chosen Creature becomes Core instead of its original region(s), and cannot attack that turn. You can only play one Spirit Spell per Magi defeated.\n",
         "type": "Spell"
     },
     {
