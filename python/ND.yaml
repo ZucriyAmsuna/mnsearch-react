@@ -1358,14 +1358,14 @@
   region: Bograth
   cost: 0
   text: >
-    If an opposing Spell, Power or Effect causes you to discard one or more
+    If an opposing Spell, Power, or Effect causes you to discard one or more
     cards from your hand, you may discard Moob Ring from your hand or from
     play instead. If you do, until your current Magi is defeated, no opposing
     cards can cause you to discard cards from your hand.
   effects:
     - name: Martyr
       text: >
-        Whenever an opposing Spell, Power or Effect discards energy from one
+        Whenever an opposing Spell, Power, or Effect discards energy from one
         or more of your Creatures in play, you may discard any one of your
         Bograth Creatures from play. If you do, the Spell, Power, or Effect
         does nothing.
@@ -4068,7 +4068,7 @@
   region: Paradwyn
   cost: 0
   text: >
-    If an opposing Spell, Power or Effect causes you to discard one or more
+    If an opposing Spell, Power, or Effect causes you to discard one or more
     cards from your hand, you may discard Bagala Fangs from your hand or from
     play instead. If you do, until your current Magi is defeated, no opposing
     cards can cause you to discard cards from your hand.

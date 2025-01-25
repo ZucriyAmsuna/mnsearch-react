@@ -276,7 +276,7 @@
   region: Arderial
   cost: 2
   text: >
-    Until the beginning of your next turn, all Spells, Powers and Effects that
+    Until the beginning of your next turn, all Spells, Powers, and Effects that
     would discard energy may not be played. Draw one additional card during
     your Draw Step this turn.
   flavor: |
@@ -1433,7 +1433,7 @@
     - name: Invulnerability
       text: >
         Rock Hyren loses two less energy in attacks and opposing Spells,
-        Powers and Effects that discard energy. Your Spells, Powers, and
+        Powers, and Effects that discard energy. Your Spells, Powers, and
         other Effects may not prevent Rock Hyren from losing energy.
   flavor: |
     "I've heard rock is strong. Nothin' beats rock."
@@ -1702,7 +1702,7 @@
   text: >
     Choose any one non-Naroom Creature in play. The chosen Creature may not
     used any of its Powers or Effects until the beginning of your next turn.
-    If an opponent's Spell, Power or Effect discards Gilded Cage from your
+    If an opponent's Spell, Power, or Effect discards Gilded Cage from your
     hand, draw cards equal to the number of cards in that opponent's hand.
   flavor: A bountiful gift for those with the key.
   artist: Christopher, Shreve

@@ -1817,7 +1817,7 @@
             "Paradwyn"
         ],
         "set": "ND",
-        "text": "If an opposing Spell, Power or Effect causes you to discard one or more cards from your hand, you may discard Bagala Fangs from your hand or from play instead. If you do, until your current Magi is defeated, no opposing cards can cause you to discard cards from your hand.\n",
+        "text": "If an opposing Spell, Power, or Effect causes you to discard one or more cards from your hand, you may discard Bagala Fangs from your hand or from play instead. If you do, until your current Magi is defeated, no opposing cards can cause you to discard cards from your hand.\n",
         "type": "Relic"
     },
     {
@@ -5426,7 +5426,7 @@
         "effects": [
             {
                 "name": "Anti-Magic",
-                "text": "Crystal Parmalag is not affected by opposing Spells, Powers or Effects that specifically discard Creatures from play. Your Spells, Powers, and Effects may not prevent Crystal Parmalag from losing energy.\n"
+                "text": "Crystal Parmalag is not affected by opposing Spells, Powers, or Effects that specifically discard Creatures from play. Your Spells, Powers, and Effects may not prevent Crystal Parmalag from losing energy.\n"
             }
         ],
         "flavor": "It's like a colossus, but with less maintenance.",
@@ -7929,7 +7929,7 @@
             },
             {
                 "name": null,
-                "text": "All opposing Spells, Powers and Effects that reveal your hand to other players have no effect. If Eyes of Arderial is discarded from your hand by an opposing card, you may play it instead.\n"
+                "text": "All opposing Spells, Powers, and Effects that reveal your hand to other players have no effect. If Eyes of Arderial is discarded from your hand by an opposing card, you may play it instead.\n"
             }
         ],
         "flavor": "For all his foresight, Arderial did not see Agram's betrayal.",
@@ -9880,7 +9880,7 @@
             "Naroom"
         ],
         "set": "AW",
-        "text": "Choose any one non-Naroom Creature in play. The chosen Creature may not used any of its Powers or Effects until the beginning of your next turn. If an opponent's Spell, Power or Effect discards Gilded Cage from your hand, draw cards equal to the number of cards in that opponent's hand.\n",
+        "text": "Choose any one non-Naroom Creature in play. The chosen Creature may not used any of its Powers or Effects until the beginning of your next turn. If an opponent's Spell, Power, or Effect discards Gilded Cage from your hand, draw cards equal to the number of cards in that opponent's hand.\n",
         "type": "Spell"
     },
     {
@@ -16744,7 +16744,7 @@
         "effects": [
             {
                 "name": "Martyr",
-                "text": "Whenever an opposing Spell, Power or Effect discards energy from one or more of your Creatures in play, you may discard any one of your Bograth Creatures from play. If you do, the Spell, Power, or Effect does nothing.\n"
+                "text": "Whenever an opposing Spell, Power, or Effect discards energy from one or more of your Creatures in play, you may discard any one of your Bograth Creatures from play. If you do, the Spell, Power, or Effect does nothing.\n"
             }
         ],
         "flavor": "\"It's supposed to change color, but it never does.\"\n-- Wiep, the Sniveler\n",
@@ -16757,7 +16757,7 @@
             "Bograth"
         ],
         "set": "ND",
-        "text": "If an opposing Spell, Power or Effect causes you to discard one or more cards from your hand, you may discard Moob Ring from your hand or from play instead. If you do, until your current Magi is defeated, no opposing cards can cause you to discard cards from your hand.\n",
+        "text": "If an opposing Spell, Power, or Effect causes you to discard one or more cards from your hand, you may discard Moob Ring from your hand or from play instead. If you do, until your current Magi is defeated, no opposing cards can cause you to discard cards from your hand.\n",
         "type": "Relic"
     },
     {
@@ -21307,7 +21307,7 @@
         "effects": [
             {
                 "name": "Invulnerability",
-                "text": "Rock Hyren loses two less energy in attacks and opposing Spells, Powers and Effects that discard energy. Your Spells, Powers, and other Effects may not prevent Rock Hyren from losing energy.\n"
+                "text": "Rock Hyren loses two less energy in attacks and opposing Spells, Powers, and Effects that discard energy. Your Spells, Powers, and other Effects may not prevent Rock Hyren from losing energy.\n"
             }
         ],
         "flavor": "I've heard rock is strong. Nothin' beats rock.\n",
@@ -27009,7 +27009,7 @@
             "Arderial"
         ],
         "set": "AW",
-        "text": "Until the beginning of your next turn, all Spells, Powers and Effects that would discard energy may not be played. Draw one additional card during your Draw Step this turn.\n",
+        "text": "Until the beginning of your next turn, all Spells, Powers, and Effects that would discard energy may not be played. Draw one additional card during your Draw Step this turn.\n",
         "type": "Spell"
     },
     {

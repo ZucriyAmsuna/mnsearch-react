@@ -141,7 +141,7 @@
         the named Spells may not be played.
     - name:
       text: >
-        All opposing Spells, Powers and Effects that reveal your hand to other
+        All opposing Spells, Powers, and Effects that reveal your hand to other
         players have no effect.
         If Eyes of Arderial is discarded from your hand by an opposing card,
         you may play it instead.
@@ -2090,7 +2090,7 @@
   effects:
     - name: Anti-Magic
       text: >
-        Crystal Parmalag is not affected by opposing Spells, Powers or Effects
+        Crystal Parmalag is not affected by opposing Spells, Powers, or Effects
         that specifically discard Creatures from play. Your Spells, Powers,
         and Effects may not prevent Crystal Parmalag from losing energy.
   flavor: It's like a colossus, but with less maintenance.
