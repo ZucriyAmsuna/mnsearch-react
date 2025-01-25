@@ -2028,7 +2028,8 @@
         If an opposing Spell or Power would discard one of your Creatures from
         play, you may discard one energy from Mijji. If you do, remove all but
         one energy from your Creature instead.
-  flavor: "This is my jungle, I have to defend it!"
+  flavor: |
+    "This is my jungle, I have to defend it!"
   artist: Werner
   rarity: U
 
