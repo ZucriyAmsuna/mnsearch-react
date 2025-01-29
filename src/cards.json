@@ -5080,7 +5080,7 @@
             "Core"
         ],
         "set": "ND",
-        "text": "Choose any one Creature in play. Discard four energy from the chosen Creature. If this discards the cosen Creature from play, play it as a Core Creature with half of its starting energy, rounded up, ignoring all costs. That Creature cannot attack or use any of its Powers this turn. Shadow Magi cannot play this Spell.\n",
+        "text": "Choose any one Creature in play. Discard four energy from the chosen Creature. If this discards the chosen Creature from play, play it as a Core Creature with half of its starting energy, rounded up, ignoring all costs. That Creature cannot attack or use any of its Powers this turn. Shadow Magi cannot play this Spell.\n",
         "type": "Spell"
     },
     {
