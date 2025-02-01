@@ -2575,7 +2575,8 @@
       text: >
         Search your deck for up to three cards and discard them. Shuffle your
         deck and draw a card.
-  flavor: "The tuk berries taste like tuk berries!"
+  flavor: >
+    "The tuk berries taste like tuk berries!"
   artist: Holmberg, Gillette
   rarity: U
 
