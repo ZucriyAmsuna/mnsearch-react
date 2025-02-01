@@ -2508,14 +2508,14 @@
   effects:
     - name: Weave Strength
       text: >
-        After energy is moved to Spreag Sprouts on an opponent's turn, add one
-        energy to Spreag Sprouts.
+        After energy is moved to Speag Sprouts on an opponent's turn, add one
+        energy to Speag Sprouts.
     - name: Weave
       text: >
         As this Creature attacks or is attacked, you may move one energy
         between it and one of your other Weave Creatures.
   flavor: >
-    At a gesture from Iyori, the spreag sprouts swarmed as the core hyren dove
+    At a gesture from Iyori, the speag sprouts swarmed as the core hyren dove
     in for an attack. Weaving energy between themselves, the sprouts began to
     grow in size.
   artist: Werner, Holmberg
