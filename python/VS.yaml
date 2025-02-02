@@ -3601,7 +3601,7 @@
   effects:
     - name:
       text: >
-        When Essence of Frost is in play, all cards in play are frozen; Powers
+        While Essence of Frost is in play, all cards in play are frozen; Powers
         on frozen cards cost one additional energy to use. Spells cost frozen
         Magi one additional energy to play.
   flavor: |
