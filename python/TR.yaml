@@ -835,7 +835,7 @@
 - name: Circling Darbok
   type: Creature
   region: d'Resh
-  cost: 5
+  cost: 4
   powers:
     - name: Passing Shadow
       cost: 0
@@ -983,7 +983,7 @@
   artist: Werner, Holmberg
   rarity: R
 
-- name: Dream Catcher
+- name: Dreamcatcher
   type: Relic
   region: d'Resh
   cost: 2

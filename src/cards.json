@@ -4419,7 +4419,7 @@
     },
     {
         "artist": "Werner, Holmberg",
-        "cost": 5,
+        "cost": 4,
         "flavor": "As the collected forces of the Moonlands converged on the slopes of Kybar's Teeth, darboks began to circle, looking for weak creatures to take advantage of.\n",
         "image": "/cardimages/TR/Circling_Darbok.jpg",
         "key": 417,
@@ -6621,7 +6621,7 @@
         "flavor": "\"Your dreams become my reality.\"\n-- Salara\n",
         "image": "/cardimages/TR/Dream_Catcher.jpg",
         "key": 425,
-        "name": "Dream Catcher",
+        "name": "Dreamcatcher",
         "normalized_name": "Dream_Catcher",
         "rarity": "R",
         "regions": [
