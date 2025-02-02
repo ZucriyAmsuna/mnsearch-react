@@ -1400,7 +1400,8 @@
         player chooses one of the cards. Place that card in your hand. If
         Locke is Frozen, choose one of the remaining cards and place it in
         your hand. Discard the other cards.
-  flavor: "Bandit is such a dirty word. I prefer 'Treasure Hunter'."
+  flavor: >
+    "Bandit is such a dirty word. I prefer 'Treasure Hunter.'"
   artist: Strom, Whyrl
   rarity: U
 
