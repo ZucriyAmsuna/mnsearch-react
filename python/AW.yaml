@@ -771,7 +771,7 @@
         energy from the chosen Creature.
     - name: Re-Koil
       text: >
-        If Koil is defeated in any attack, after it is discarded from play,
+        If Koil is defeated in an attack, after it is discarded from play,
         choose any one player's discard pile. Shuffle the chosen discard pile
         into its owner's deck.
   flavor: |
