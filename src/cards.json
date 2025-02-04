@@ -7645,7 +7645,7 @@
         "effects": [
             {
                 "name": "Discordia",
-                "text": "Once per turn, when an opposing Magi plays a non-Universal Creature not of their Magi's region, you may choose and discard one of the Magi's Creatures from play.\n"
+                "text": "Once per turn, when an opposing Magi plays a non-Universal Creature not of their Magi's region, you may choose and discard one of that Magi's Creatures from play.\n"
             }
         ],
         "energize": 5,
@@ -7675,7 +7675,7 @@
         "effects": [
             {
                 "name": "Discordia",
-                "text": "Once per turn, when an opposing Magi plays a non-Universal Creature not of their Magi's region, you may choose and discard one of the Magi's Creatures from play.\n"
+                "text": "Once per turn, when an opposing Magi plays a non-Universal Creature not of their Magi's region, you may choose and discard one of that Magi's Creatures from play.\n"
             }
         ],
         "energize": 5,
