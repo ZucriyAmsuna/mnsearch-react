@@ -2363,7 +2363,7 @@
   cost: 1
   text: >
     If an opposing card causes you to discard Tomorrow's Jewel from your hand
-    or from play, you my play it instead.
+    or from play, you may play it instead.
   effects:
     - name:
       text: >
