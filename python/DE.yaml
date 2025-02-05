@@ -3097,7 +3097,6 @@
         Each time a Creature that you own is defeated in an attack, you may
         place it under Gia's Tome instead of in the discard pile. If Gia's
         Tome is discarded from play, discard all cards under it.
-  effects:
     - name: Research
       text: >
         Once per turn, you may play a Creature from under Gia's Tome as if it
