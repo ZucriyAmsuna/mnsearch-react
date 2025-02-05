@@ -1306,7 +1306,10 @@
   text: >
     Take all Creature cards from your discard pile and shuffle them into your
     deck. Draw three cards.
-  text: Arderial Magi may play Dream Rift.
+  text: >
+    Take all Creature cards from your discard pile and shuffle them into your
+    deck. Draw three cards.
+    Arderial Magi may play Dream Rift.
   alt_play: Arderial
   flavor: The dam broke and the dreams flooded through.
   artist: Shreve
