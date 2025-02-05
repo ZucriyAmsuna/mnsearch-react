@@ -2118,7 +2118,8 @@
         Choose any one Creature in play. Add one energy to the chosen
         Creature. Add two additional energy if the chosen Creature is a
         Parmalag.
-  flavor: "I'm as thick-skinned as any of my pets."
+  flavor: |
+    "I'm as thick-skinned as any of my pets."
   artist: Holmberg, Vega, Goodman
   rarity: U
 
