@@ -26265,7 +26265,7 @@
         "effects": [
             {
                 "name": "Leech",
-                "text": "At the beginning of your Play Creatures step, you may discard two energy from The Real Qwade. If you do, until the end of your turn, whenever you play a Creature, choose another Creature. Move on energy from the chosen Creature to the Creature you just played.\n"
+                "text": "At the beginning of your Play Creatures step, you may discard two energy from The Real Qwade. If you do, until the end of your turn, whenever you play a Creature, choose another Creature. Move one energy from the chosen Creature to the Creature you just played.\n"
             }
         ],
         "energize": 6,
