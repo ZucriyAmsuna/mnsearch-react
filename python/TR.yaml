@@ -1978,6 +1978,7 @@
 
 - name: Vine Bhatar
   type: Creature
+  subtype: Jungle Stalker
   region: Paradwyn
   cost: 3
   powers:
@@ -2389,6 +2390,7 @@
 
 - name: Hapu
   type: Creature
+  subtype: Eliwan Artifact
   region: Universal
   cost: 3
   text: >
@@ -2429,6 +2431,7 @@
 
 - name: Ancient's Puzzlebox
   type: Relic
+  subtype: Eliwan Artifact
   region: Universal
   cost: 1
   text: >
@@ -2449,6 +2452,7 @@
 
 - name: Une's Scale
   type: Relic
+  subtype: Eliwan Artifact
   region: Universal
   cost: 1
   effects:

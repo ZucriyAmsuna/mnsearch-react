@@ -4395,7 +4395,6 @@
   type: Creature
   region: Paradwyn
   subtype: Jungle Stalker
-  subtype: Jungle Stalker
   cost: 4
   effects:
     - name: Bicker
@@ -4411,7 +4410,6 @@
 - name: Kwup
   type: Creature
   region: Paradwyn
-  subtype: Jungle Stalker
   subtype: Jungle Stalker
   cost: 4
   powers:

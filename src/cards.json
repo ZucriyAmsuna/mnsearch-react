@@ -935,6 +935,7 @@
             "Universal"
         ],
         "set": "TR",
+        "subtype": "Eliwan Artifact",
         "text": "Your deck may contain up to six copies of Ancient Puzzlebox.\n",
         "type": "Relic"
     },
@@ -11610,6 +11611,7 @@
         ],
         "set": "TR",
         "starting_magi": "Tuku",
+        "subtype": "Eliwan Artifact",
         "text": "Hapu may not be chosen by an Effect, Power or Spell that could cause it to change controllers.\n",
         "type": "Creature"
     },
@@ -28319,6 +28321,7 @@
             "Universal"
         ],
         "set": "TR",
+        "subtype": "Eliwan Artifact",
         "type": "Relic"
     },
     {
@@ -28920,6 +28923,7 @@
             "Paradwyn"
         ],
         "set": "TR",
+        "subtype": "Jungle Stalker",
         "type": "Creature"
     },
     {
