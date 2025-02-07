@@ -594,7 +594,8 @@
         All cards that specifically reference Core instead reference their own
         region. If a card is of multiple regions, you choose which of those
         regions to reference.
-  flavor: "Everything is part of the whole..."
+  flavor: |
+    "Everything is part of the whole..."
   artist: Werner, Gillette, Goodman
   rarity: R
 
