@@ -6867,7 +6867,7 @@
         "effects": [
             {
                 "name": "Condemn",
-                "text": "At the beginning of each of your opponent's turns, you may choose any one Creature in play. Until the end of that opponent's turn, each time the chosen Creature loses less energy from Powers, Spells, or attacks, it loses three additional energy.\n"
+                "text": "At the beginning of each of your opponent's turns, you may choose any one Creature in play. Until the end of that opponent's turn, each time the chosen Creature loses energy from Powers, Spells, or attacks, it loses three additional energy.\n"
             }
         ],
         "flavor": "\"He has been marked. Let him come, if he dares.\"\n-- Morag, the Executor\n",

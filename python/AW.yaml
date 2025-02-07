@@ -704,8 +704,8 @@
       text: >
         At the beginning of each of your opponent's turns, you may choose any
         one Creature in play. Until the end of that opponent's turn, each time
-        the chosen Creature loses less energy from Powers, Spells, or attacks,
-        it loses three additional energy.
+        the chosen Creature loses energy from Powers, Spells, or attacks, it
+        loses three additional energy.
   text: Cald Magi may play Dryte Fiend.
   alt_play: Cald
   flavor: |
