@@ -1011,7 +1011,8 @@
         Choose any one Relic in play. Gain control of the chosen Relic for
         your next X turns. At the end of X turns, or if Morag is defeated,
         return that Relic to its owner's hand.
-  flavor: "What power! It just gets stronger every time I use it!"
+  flavor: |
+    "What power! It just gets stronger every time I use it!"
   artist: Holmberg, Vega
   rarity: R
 
