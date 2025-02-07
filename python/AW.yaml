@@ -756,7 +756,8 @@
         Choose any one other Grubble in play. Discard both this Grubble and
         the chosen Grubble from play. Search your deck for any one Creature
         and play that Creature with its starting energy.
-  flavor: "The merging is complete!"
+  flavor: |
+    "The merging is complete!"
   artist: Holmberg, Vega, Goodman
   rarity: R
 
