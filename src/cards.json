@@ -24118,11 +24118,14 @@
             },
             {
                 "name": "Regret",
-                "text": "All Core cards cost opposing Magi one additional energy to play. Sorrowing Ogar may not be played in a deck with any Core Magi.\n"
+                "text": "All Core cards cost opposing Magi one additional energy to play.\n"
+            },
+            {
+                "text": "Sorrowing Ogar may not be played in a deck with any Core Magi.\n"
             }
         ],
         "energize": 5,
-        "flavor": "\"I-- I thought it was all a dream! What have I done?\"\n",
+        "flavor": "\"I--I thought it was all a dream! What have I done?\"\n",
         "image": "/cardimages/DE/Sorrowing_Ogar.jpg",
         "key": 780,
         "name": "Sorrowing Ogar",

@@ -2208,9 +2208,10 @@
     - name: Regret
       text: >
         All Core cards cost opposing Magi one additional energy to play.
-        Sorrowing Ogar may not be played in a deck with any Core Magi.
+  text: >
+    Sorrowing Ogar may not be played in a deck with any Core Magi.
   flavor: |
-    "I-- I thought it was all a dream! What have I done?"
+    "I--I thought it was all a dream! What have I done?"
   artist: Werner, Gillette
   rarity: R
 
