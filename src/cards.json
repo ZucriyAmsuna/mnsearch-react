@@ -8791,7 +8791,7 @@
         "effects": [
             {
                 "name": "Underbrush",
-                "text": "Whenever a Spell or Power adds energy to Forest Hyren, add one additional energy to Forest Hyren.\n"
+                "text": "Whenever a Spell or Power adds energy to Forest Hyren, add an additional energy to Forest Hyren.\n"
             }
         ],
         "flavor": "From life comes life.",
