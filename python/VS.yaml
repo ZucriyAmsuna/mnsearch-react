@@ -367,7 +367,7 @@
         Creatures in play than you (not counting this card), ignore Vard's
         cost.
     - name: Shifty
-      text: Vard loses no enery from opposing Effects.
+      text: Vard loses no energy from opposing Effects.
   flavor: Ever hungry, vards are drawn to concentrations of dream energy.
   artist: Werner, Gillette, Shreve
   rarity: C
@@ -1638,7 +1638,7 @@
       cost: 1
       text: >
         Choose an opponent and any of that player's Creatures. Discard two
-        enery from the chosen Creature unless the chosen player discards three
+        energy from the chosen Creature unless the chosen player discards three
         energy from their Magi.
   flavor: |
     "ecks ecks ECKS!"
@@ -1792,7 +1792,7 @@
     - name: Abrade
       text: >
         Whenever an opponent uses a Power, choose one of that player's
-        Creatures. Discard one enery from the chosen Creature.
+        Creatures. Discard one energy from the chosen Creature.
     - name: Drift
       text: >
         At the beginning of your turn, move up to two energy from one of your
@@ -2720,7 +2720,7 @@
       text: >
         Choose a Relic in play. That Relic's player must discard one of their
         Relics from play. If the discarded Relic is not the one you chose, add
-        two enery to Frost Raxis.
+        two energy to Frost Raxis.
   flavor: |
     "Eenie, meenie, mynie --" SMASH "D'oh!"
     -- Emaya
@@ -3316,7 +3316,7 @@
     - name: Improvise
       text: >
         Discard a Relic from your hand to choose a Creature. Discard two
-        energy from or add two enery to the chosen Creature.
+        energy from or add two energy to the chosen Creature.
   flavor: |
     "Oh boy! Water of life! Just what I was hoping you'd get!"
   artist: Werner, Gillette, Goodman
@@ -4785,7 +4785,7 @@
     You may play this card only when your Underneath Magi is defeated on an
     opponent's turn. Discard a card from your hand. When you reveal your next
     Magi, it gains "Effect - Resilience: At the beginning of your turn, if
-    you have fewer Creatures in play than any opponent, add two enery to your
+    you have fewer Creatures in play than any opponent, add two energy to your
     Magi."
     You can only play one Spirit Spell per Magi defeated.
   flavor: |

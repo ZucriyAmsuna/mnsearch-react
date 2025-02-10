@@ -247,7 +247,7 @@
   powers:
     - name: Gathering Clouds
       cost: 2
-      text: Choose any one Xyx in play. Add four enery to the chosen Xyx.
+      text: Choose any one Xyx in play. Add four energy to the chosen Xyx.
   flavor: |
     To Arderians, the clouds are the seed bed and the lightning is the
     harvest.
@@ -392,7 +392,7 @@
     - name: Strengthen
       text: >
         At the beginning of your turn, choose any one Creature in play. Add
-        one enery to the chosen Creature.
+        one energy to the chosen Creature.
   flavor: |
     "The wind and his children answer to the one wearing me."
     -- Crown inscription
@@ -2202,7 +2202,7 @@
   type: Spell
   cost: 8
   text: >
-    Roll one die. Discard enery equal to the die roll from each non-Orothe
+    Roll one die. Discard energy equal to the die roll from each non-Orothe
     Creature in play.
   flavor: The wind and the sea rise. Everything else goes down.
   artist: Christopher
@@ -2934,7 +2934,7 @@
     - name: Tinker
       text: >
         Whenever you play a Relic, choose any one Creature in play. Add one
-        enery to the chosen Creature.
+        energy to the chosen Creature.
   flavor: |
     "Me mates and I guard the Vault of Science, and
     the Vault returns the favor."

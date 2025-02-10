@@ -1150,7 +1150,7 @@
         Whenever a Creature is played, roll a die:
         1, 2, 3 = Choose any one Creature in play. Add one energy to the
         chosen Creature;
-        4, 5, 6 = Choose any one Creature in play. Discard one enery from the
+        4, 5, 6 = Choose any one Creature in play. Discard one energy from the
         chosen Creature.
   flavor: "Ook, no, Ogar doesssn't let her petsss' dinner get away."
   artist: Holmberg, Vega, Goodman
@@ -1164,7 +1164,7 @@
     - name: Shield
       text: >
         At the beginning of each player's turn, choose any one of your
-        Creatures in play. The chosen Creature loses two less enery from each
+        Creatures in play. The chosen Creature loses two less energy from each
         attack this turn.
   flavor: "You rang?"
   artist: Holmberg, Vega, Werner

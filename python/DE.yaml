@@ -1511,7 +1511,7 @@
       text: |
         Once per turn, when one of your Creatures is attacked and before
         energy is removed, you may roll one die:
-        1-2: Discard three enery from the defending Creature.
+        1-2: Discard three energy from the defending Creature.
         3-4: Discard one energy from the attacking Creature.
         5-6: Discard three energy from the attacking Creature.
              Always use this result if your Magi is Ullig.
@@ -3315,7 +3315,7 @@
   region: Weave
   cost: 3
   text: >
-    Choose any one Weave Creature in play. Add eight enery to the chosen
+    Choose any one Weave Creature in play. Add eight energy to the chosen
     Creature. While that Creature remains in play, it may not attack or use
     Powers or Effects. When the chosen Creature is discarded from play,
     discard two cards of your choice from your hand.

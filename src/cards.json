@@ -322,7 +322,7 @@
         "effects": [
             {
                 "name": "Shield",
-                "text": "At the beginning of each player's turn, choose any one of your Creatures in play. The chosen Creature loses two less enery from each attack this turn.\n"
+                "text": "At the beginning of each player's turn, choose any one of your Creatures in play. The chosen Creature loses two less energy from each attack this turn.\n"
             }
         ],
         "flavor": "You rang?",
@@ -1080,7 +1080,7 @@
         "effects": [
             {
                 "name": "Strengthen",
-                "text": "At the beginning of your turn, choose any one Creature in play. Add one enery to the chosen Creature.\n"
+                "text": "At the beginning of your turn, choose any one Creature in play. Add one energy to the chosen Creature.\n"
             }
         ],
         "flavor": "\"The wind and his children answer to the one wearing me.\"\n-- Crown inscription\n",
@@ -2372,7 +2372,7 @@
         "effects": [
             {
                 "name": "Great Weave",
-                "text": "Whenever Blade Hyren attacks, you may move one enery from each of your other Weave Creatures in play to Blade Hyren.\n"
+                "text": "Whenever Blade Hyren attacks, you may move one energy from each of your other Weave Creatures in play to Blade Hyren.\n"
             },
             {
                 "name": "Bequest",
@@ -7206,7 +7206,7 @@
         "powers": [
             {
                 "name": "Improvise",
-                "text": "Discard a Relic from your hand to choose a Creature. Discard two energy from or add two enery to the chosen Creature.\n"
+                "text": "Discard a Relic from your hand to choose a Creature. Discard two energy from or add two energy to the chosen Creature.\n"
             }
         ],
         "rarity": "U",
@@ -9090,7 +9090,7 @@
             {
                 "cost": 1,
                 "name": "Thermal Stress",
-                "text": "Choose a Relic in play. That Relic's player must discard one of their Relics from play. If the discarded Relic is not the one you chose, add two enery to Frost Raxis.\n"
+                "text": "Choose a Relic in play. That Relic's player must discard one of their Relics from play. If the discarded Relic is not the one you chose, add two energy to Frost Raxis.\n"
             }
         ],
         "rarity": "C",
@@ -9532,7 +9532,7 @@
         "effects": [
             {
                 "name": "Abrade",
-                "text": "Whenever an opponent uses a Power, choose one of that player's Creatures. Discard one enery from the chosen Creature.\n"
+                "text": "Whenever an opponent uses a Power, choose one of that player's Creatures. Discard one energy from the chosen Creature.\n"
             },
             {
                 "name": "Drift",
@@ -18050,7 +18050,7 @@
         "effects": [
             {
                 "name": "Feral Instinct",
-                "text": "Whenever a Creature is played, roll a die:\n1, 2, 3 = Choose any one Creature in play. Add one energy to the\nchosen Creature;\n4, 5, 6 = Choose any one Creature in play. Discard one enery from the\nchosen Creature.\n"
+                "text": "Whenever a Creature is played, roll a die:\n1, 2, 3 = Choose any one Creature in play. Add one energy to the\nchosen Creature;\n4, 5, 6 = Choose any one Creature in play. Discard one energy from the\nchosen Creature.\n"
             }
         ],
         "energize": 5,
@@ -20990,7 +20990,7 @@
         "effects": [
             {
                 "name": "Tinker",
-                "text": "Whenever you play a Relic, choose any one Creature in play. Add one enery to the chosen Creature.\n"
+                "text": "Whenever you play a Relic, choose any one Creature in play. Add one energy to the chosen Creature.\n"
             }
         ],
         "flavor": "\"Me mates and I guard the Vault of Science, and\nthe Vault returns the favor.\"\n-- Blu, Vault Guardian\n",
@@ -23204,7 +23204,7 @@
             "Weave"
         ],
         "set": "DE",
-        "text": "Choose any one Weave Creature in play. Add eight enery to the chosen Creature. While that Creature remains in play, it may not attack or use Powers or Effects. When the chosen Creature is discarded from play, discard two cards of your choice from your hand.\n",
+        "text": "Choose any one Weave Creature in play. Add eight energy to the chosen Creature. While that Creature remains in play, it may not attack or use Powers or Effects. When the chosen Creature is discarded from play, discard two cards of your choice from your hand.\n",
         "type": "Spell"
     },
     {
@@ -24496,7 +24496,7 @@
             "Underneath"
         ],
         "set": "VS",
-        "text": "You may play this card only when your Underneath Magi is defeated on an opponent's turn. Discard a card from your hand. When you reveal your next Magi, it gains \"Effect - Resilience: At the beginning of your turn, if you have fewer Creatures in play than any opponent, add two enery to your Magi.\" You can only play one Spirit Spell per Magi defeated.\n",
+        "text": "You may play this card only when your Underneath Magi is defeated on an opponent's turn. Discard a card from your hand. When you reveal your next Magi, it gains \"Effect - Resilience: At the beginning of your turn, if you have fewer Creatures in play than any opponent, add two energy to your Magi.\" You can only play one Spirit Spell per Magi defeated.\n",
         "type": "Spell"
     },
     {
@@ -28000,7 +28000,7 @@
             "Orothe"
         ],
         "set": "BS",
-        "text": "Roll one die. Discard enery equal to the die roll from each non-Orothe Creature in play.\n",
+        "text": "Roll one die. Discard energy equal to the die roll from each non-Orothe Creature in play.\n",
         "type": "Spell"
     },
     {
@@ -28164,7 +28164,7 @@
         "effects": [
             {
                 "name": "Fire Away!",
-                "text": "Once per turn, when one of your Creatures is attacked and before\nenergy is removed, you may roll one die:\n1-2: Discard three enery from the defending Creature.\n3-4: Discard one energy from the attacking Creature.\n5-6: Discard three energy from the attacking Creature.\n     Always use this result if your Magi is Ullig.\n"
+                "text": "Once per turn, when one of your Creatures is attacked and before\nenergy is removed, you may roll one die:\n1-2: Discard three energy from the defending Creature.\n3-4: Discard one energy from the attacking Creature.\n5-6: Discard three energy from the attacking Creature.\n     Always use this result if your Magi is Ullig.\n"
             }
         ],
         "flavor": "\"You know, there's really no such thing as 'friendly fire'.\"\n-- Tony Jones\n",
@@ -28653,7 +28653,7 @@
             },
             {
                 "name": "Shifty",
-                "text": "Vard loses no enery from opposing Effects."
+                "text": "Vard loses no energy from opposing Effects."
             }
         ],
         "flavor": "Ever hungry, vards are drawn to concentrations of dream energy.",
@@ -29446,7 +29446,7 @@
             {
                 "cost": 1,
                 "name": "Challenge",
-                "text": "Choose an opponent and any of that player's Creatures. Discard two enery from the chosen Creature unless the chosen player discards three energy from their Magi.\n"
+                "text": "Choose an opponent and any of that player's Creatures. Discard two energy from the chosen Creature unless the chosen player discards three energy from their Magi.\n"
             }
         ],
         "rarity": "C",
@@ -30631,7 +30631,7 @@
             {
                 "cost": 2,
                 "name": "Gathering Clouds",
-                "text": "Choose any one Xyx in play. Add four enery to the chosen Xyx."
+                "text": "Choose any one Xyx in play. Add four energy to the chosen Xyx."
             }
         ],
         "rarity": "C",
