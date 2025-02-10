@@ -3132,7 +3132,7 @@
     - name: Bend
       cost: 1
       text: >
-        Discard one energy from any number of your Weave Creatures in play; if
+        Discard one energy from any number of your Weave Creatures in play, if
         Kesia is your Magi, may move move all energy to Kesia instead of
         discarding it. Add two energy to an equal number of other Creatures in
         play.
