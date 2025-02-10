@@ -24890,7 +24890,7 @@
             {
                 "cost": 1,
                 "name": "Stalk",
-                "text": "Until the end of your next turn, whenever one of your Creatures is attacking, the defending Creature is stalked; whenever a stalked Creature is attacked, discard one energy from the stalked Creature before energy is removed.\n"
+                "text": "Until the end of your turn, whenever one of your Creatures is attacking, the defending Creature is stalked; whenever a stalked Creature is attacked, discard one energy from the stalked Creature before energy is removed.\n"
             }
         ],
         "rarity": "R",

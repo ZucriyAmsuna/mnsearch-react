@@ -4204,7 +4204,7 @@
     - name: Stalk
       cost: 1
       text: >
-        Until the end of your next turn, whenever one of your Creatures is
+        Until the end of your turn, whenever one of your Creatures is
         attacking, the defending Creature is stalked; whenever a stalked
         Creature is attacked, discard one energy from the stalked Creature
         before energy is removed.
