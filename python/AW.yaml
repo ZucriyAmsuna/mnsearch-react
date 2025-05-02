@@ -1596,7 +1596,8 @@
     - name: Preserve
       cost: 2
       text: Return any one Furok from your discard pile to your hand.
-  flavor: "Happiness is a furry friend and a flock of blue birds."
+  flavor: >
+    "Happiness is a furry friend and a flock of blue birds."
   artist: Holmberg, Vega, Goodman
   rarity: R
 
