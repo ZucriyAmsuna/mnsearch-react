@@ -1838,7 +1838,7 @@
         "powers": [
             {
                 "name": "Stalk",
-                "text": "Choose any opposing Creature in play. Until the end of your next turn, the chosen Creature is stalked; whenever a stalked Creature is attacked, discard one energy from the stalked Creature before energy is removed.\n"
+                "text": "Choose any one opposing Creature in play. Until the end of your next turn, the chosen Creature is stalked; whenever a stalked Creature is attacked, discard one energy from the stalked Creature before energy is removed.\n"
             }
         ],
         "rarity": "U",
