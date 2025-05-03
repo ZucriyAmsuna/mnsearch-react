@@ -304,7 +304,8 @@
   effects:
     - name: Warning
       text: If Lasada is defeated, draw three cards.
-  flavor: "If I'm not around to learn from my mistakes, someone else will be."
+  flavor: >
+    "If I'm not around to learn from my mistakes, someone else will be."
   artist: Holmberg, Vega
   rarity: U
 
@@ -343,7 +344,8 @@
       text: >
         Whenever Ora plays an Arderial Creature, add one energy to that
         Creature.
-  flavor: "My Vellup is bigger than yours!"
+  flavor: >
+    "My Vellup is bigger than yours!"
   artist: Holmberg, Sato
   rarity: R
 
@@ -361,7 +363,8 @@
       text: >
         If there is no energy on Shimmer at the end of your turn, discard one
         energy from each opposing Creature in play.
-  flavor: "They feel my pain."
+  flavor: >
+    "They feel my pain."
   artist: Holmberg, Christopher
   rarity: U
 
@@ -620,7 +623,8 @@
       text: >
         Discard Fire Chogo from play to discard one energy from each non-Cald
         Creature in play.
-  flavor: "She's gonna blow!"
+  flavor: >
+    "She's gonna blow!"
   artist: Holmberg, Vega
   rarity: C
 
@@ -635,7 +639,8 @@
         Choose any one of your Creatures and any one of your opponents'
         Creatures in play. Discard twice your Creature's current energy from
         your opponent's Creature. Discard your chosen Creature from play.
-  flavor: "You be the ammunition this time!"
+  flavor: >
+    "You be the ammunition this time!"
   artist: Holmberg, Vega
   rarity: U
 
@@ -679,7 +684,8 @@
       text: >
         Choose any one of your Creatures in play. Move all of the chosen
         Creature's energy to Kelthet.
-  flavor: "Feed me."
+  flavor: >
+    "Feed me."
   artist: Vega
   rarity: C
 
@@ -826,7 +832,8 @@
       text: >
         If a Creature attacks Ashgar directly, draw a card before energy
         is removed.
-  flavor: "I'm addicted to stress. That's the way I get things done."
+  flavor: >
+    "I'm addicted to stress. That's the way I get things done."
   artist: Holmberg, Vega
   rarity: R
 
@@ -865,7 +872,8 @@
        Before you draw your cards during your Draw Step, add two energy to
        your Creature with the least energy. If there is a tie, you choose
        which Creature the energy gets placed on.
-  flavor: "Feel better now? Good! Next..."
+  flavor: >
+    "Feel better now? Good! Next..."
   artist: Holmberg, Vega
   rarity: U
 
@@ -906,7 +914,8 @@
       text: >
         Choose any one Creature in play with less than its starting energy.
         Restore the chosen Creature to its starting energy.
-  flavor: "With the right fuel, any spark of life can be rekindled."
+  flavor: >
+    "With the right fuel, any spark of life can be rekindled."
   artist: Holmberg, Sato
   rarity: R
 
@@ -1060,7 +1069,8 @@
   region: Cald
   cost: 1
   text: Rearrange the energy on your Creatures as you wish.
-  flavor: "One for you, fifteen for me."
+  flavor: >
+    "One for you, fifteen for me."
   artist: Christopher
   rarity: R
 
@@ -1496,7 +1506,8 @@
   effects:
     - name: Double Strike
       text: Each of your Creatures may attack twice each turn.
-  flavor: "This is my Hyren. He doesn't like you."
+  flavor: >
+    "This is my Hyren. He doesn't like you."
   artist: Holmberg, Vega
   rarity: U
 
@@ -1728,7 +1739,8 @@
       text: >
         Choose any one Creature in play that was attacked this turn. Discard
         the chosen Creature from play.
-  flavor: "Finish him."
+  flavor: >
+    "Finish him."
   artist: Holmberg, Vega
   rarity: C
 
@@ -1839,7 +1851,8 @@
       text: >
         Discard Paralit from play. Add five energy to your Magi. Discard one
         energy from each of your Creatures in play.
-  flavor: "Must... have... energy."
+  flavor: >
+    "Must... have... energy."
   artist: Holmberg, Vega
   rarity: U
 
@@ -2038,7 +2051,8 @@
         Whenever an opposing Magi's Spell or Relic discards any amount of
         energy from Orthea, you may add that amount of energy to any one
         Orothe Creature in play.
-  flavor: "That hurt. I hope you're happy, because it's your turn."
+  flavor: >
+    "That hurt. I hope you're happy, because it's your turn."
   artist: Holmberg, Sato
   rarity: U
 
@@ -2151,7 +2165,8 @@
   text: >
     Choose any one Magi in play. The chosen Magi cannot play any spells during
     his or her next turn.
-  flavor: "Abracadableeeeerrrrrgh!"
+  flavor: >
+    "Abracadableeeeerrrrrgh!"
   artist: Christopher
   rarity: R
 
@@ -2259,7 +2274,8 @@
   effects:
     - name: Tunneling Attack
       text: While burrowed, Bisiwog may still attack as normal.
-  flavor: "Shh. Listen. Do you hear that scratching?"
+  flavor: >
+    "Shh. Listen. Do you hear that scratching?"
   artist: Holmberg, Vega
   rarity: C
 
@@ -2333,7 +2349,8 @@
         other Creatures. Both Giant Korrit and the attacking Creature remove
         energy from the defending Creature, but Giant Korrit loses no energy
         in the attack.
-  flavor: "That's a big mushroom, all right."
+  flavor: >
+    "That's a big mushroom, all right."
   artist: Holmberg
   rarity: R
 
@@ -2394,7 +2411,8 @@
         Instead of its normal attack, Korrit can attack with one of your other
         Creatures. Both Korrit and the attacking Creature remove energy from
         the defending Creature, but Korrit loses no energy in the attack.
-  flavor: "Oh look, they want to play too."
+  flavor: >
+    "Oh look, they want to play too."
   artist: Holmberg, Vega
   rarity: U
 
@@ -2493,7 +2511,8 @@
         During your Draw Step, you may choose to add three energy to any one
         Creature, instead of drawing one of your two cards. Use this Effects
         only one per turn.
-  flavor: "Knowledge or power. Your choice."
+  flavor: >
+    "Knowledge or power. Your choice."
   artist: Holmberg, Vega, Shreve
   rarity: U
 
@@ -2553,7 +2572,8 @@
       text: >
         Whenever a Creature you control in play is attacked and defeated,
         return that Creature to your hand instead of discarding it.
-  flavor: "That's not the last you'll see of him."
+  flavor: >
+    "That's not the last you'll see of him."
   artist: Vega
   rarity: R
 
@@ -2571,7 +2591,8 @@
       text: >
         Whenever one of your Creatures is attacked, add one energy to that
         Creature before energy is removed.
-  flavor: "My eyes are everywhere. Hey, you almost sat on one!"
+  flavor: >
+    "My eyes are everywhere. Hey, you almost sat on one!"
   artist: Holmberg, Vega
   rarity: U
 
@@ -2606,7 +2627,8 @@
       text: >
         At the start of your turn add one energy to each of your Korrits in
         play.
-  flavor: "Is this the first time mushrooms have had YOU for lunch?"
+  flavor: >
+    "Is this the first time mushrooms have had YOU for lunch?"
   artist: Holmberg, Vega
   rarity: R
 
@@ -2699,7 +2721,8 @@
   text: >
     Choose any one Creature in play with less than five energy. Discard the
     chosen Creature.
-  flavor: "Aieeeeeee!"
+  flavor: >
+    "Aieeeeeee!"
   artist: Christopher
   rarity: U
 
@@ -2831,7 +2854,8 @@
       text: >
         Choose any one Creature in play. Discard Baloo Root from play. Add one
         energy to the chosen Creature.
-  flavor: "IT'S GOOD FOR YOU!!!"
+  flavor: >
+    "IT'S GOOD FOR YOU!!!"
   artist: Vega
   rarity: C
 

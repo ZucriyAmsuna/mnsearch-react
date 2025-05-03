@@ -14,7 +14,6 @@
       text: >
         Choose a Creature. Remove one energy from that Creature for each
         Vemment you control.
-  text:
   flavor: |
     A flight of vemments charged Togoth, pummeling his nightmare creatures
     into animite dust.
@@ -1612,7 +1611,8 @@
       text: >
         As you use a Power on a Naroom Relic, choose a Creature you control
         and add one energy to it.
-  flavor: "The more I learn, the more I need to know."
+  flavor: >
+    "The more I learn, the more I need to know."
   artist: Holmberg
   rarity: U
 
@@ -1789,8 +1789,8 @@
   starting:
     - "[One Core Relic]"
     - "[One Orothe Relic]"
-  text:
-    - Bria, Relic Hunter may play Core Relics.
+  text: >
+    Bria, Relic Hunter may play Core Relics.
   effects:
     - name: Desire
       text: >
@@ -1814,13 +1814,16 @@
     - Sea Barl
     - Hubdra's Cube
     - Ripcurl
+  text: >
+    You may not play more than two Relics per turn.
   effects:
     - name: Guardian
       text: >
         After an opposing card discards one or more of your Orothe Relics
         from play, you may remove one energy from Jaim. If you do, return
         the Relics to their owner's hand.
-  flavor: "I'm never caught unprepared when my relics are near."
+  flavor: >
+    "I'm never caught unprepared when my relics are near."
   artist: Holmberg
   rarity: U
 
@@ -1839,7 +1842,8 @@
       text: >
         Choose a non-Magi card of more than one Region. Discard it from
         play.
-  flavor: "You're entering the whirl of hurt."
+  flavor: >
+    "You're entering the whirl of hurt."
   artist: Holmberg
   rarity: U
 

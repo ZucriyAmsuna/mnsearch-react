@@ -426,7 +426,8 @@
       text: >
         Whenever a Cald Spell adds energy to one or more of your Creatures in
         play, instead add twice as much energy to each Creature.
-  flavor: "Step on no pets!"
+  flavor: >
+    "Step on no pets!"
   artist: Holmberg, Vega, Goodman
   rarity: U
 
@@ -445,7 +446,8 @@
       text: >
         Choose any one Creature in play with X energy. Discard the chosen
         Creature from play.
-  flavor: "They all look the same when I'm through with them."
+  flavor: >
+    "They all look the same when I'm through with them."
   artist: Holmberg, Vega, Goodman
   rarity: R
 
@@ -464,7 +466,8 @@
       text: >
         Choose any one Creature in play. Restore the chosen Creature to its
         starting energy. This Power may add or discard energy.
-  flavor: "More power to you!"
+  flavor: >
+    "More power to you!"
   artist: Holmberg, Vega, Goodman
   rarity: R
 
@@ -491,7 +494,8 @@
       text: >
         Whenever you discard all of an opposing Creature's energy with a Spell
         or Power, draw one card.
-  flavor: "You looking at me...?"
+  flavor: >
+    "You looking at me...?"
   artist: Holmberg, Gillette, Goodman
   rarity: R
 
@@ -543,7 +547,8 @@
     Creature.
     Cald Shadow Magi may play Sulfurous Spirit.
   shadow_play: Cald
-  flavor: "This is the end of you, and you."
+  flavor: >
+    "This is the end of you, and you."
   artist: Christopher, Shreve
   rarity: C
 
@@ -726,7 +731,8 @@
         of the chosen Creature. The chosen Creature may not attack this turn.
         If Gorath leaves play, return all Creatures Enslaved by Gorath to
         their owners' control.
-  flavor: "I will own all of you."
+  flavor: >
+    "I will own all of you."
   artist: Holmberg, Gillette, Goodman
   rarity: R
 
@@ -849,7 +855,8 @@
         1, 2 = Add five energy to Szalak.
         3, 4 = Discard Szalak from play.
         5, 6 = Add three energy to Szalak and three energy to your Magi.
-  flavor: "zzzzzMMMMMzzzzzzzzzzzMMMzMMMzzzzzzzzMMMzzzzzBOOM!"
+  flavor: >
+    "zzzzzMMMMMzzzzzzzzzzzMMMzMMMzzzzzzzzMMMzzzzzBOOM!"
   artist: Holmberg, Werner, Goodman
   rarity: C
 
@@ -1050,7 +1057,8 @@
       text: >
         Whenever any player plays a Spell, you may choose any one Creature or
         Magi in play. Discard one energy from the chosen Creature or Magi.
-  flavor: "I'm a blade with which my master strikes fear."
+  flavor: >
+    "I'm a blade with which my master strikes fear."
   artist: Gillette, Vega
   rarity: R
 
@@ -1091,7 +1099,8 @@
       text: >
         At the beginning of your turn, if Warrada has no creatures in play,
         add five energy to Warrada.
-  flavor: "The Shadow sees all."
+  flavor: >
+    "The Shadow sees all."
   artist: Vega, Goodman
   rarity: U
 
@@ -1111,7 +1120,8 @@
       text: >
         Choose any two Creatures in play. Discard X energy from one of the
         chosen Creatures. Add X energy to the other chosen Creature.
-  flavor: "You think this is the real Qwade? ...It is!"
+  flavor: >
+    "You think this is the real Qwade? ...It is!"
   artist: Wood, Holmberg
   rarity: U
 
@@ -1152,7 +1162,8 @@
         chosen Creature;
         4, 5, 6 = Choose any one Creature in play. Discard one energy from the
         chosen Creature.
-  flavor: "Ook, no, Ogar doesssn't let her petsss' dinner get away."
+  flavor: >
+    "Ook, no, Ogar doesssn't let her petsss' dinner get away."
   artist: Holmberg, Vega, Goodman
   rarity: U
 
@@ -1166,7 +1177,8 @@
         At the beginning of each player's turn, choose any one of your
         Creatures in play. The chosen Creature loses two less energy from each
         attack this turn.
-  flavor: "You rang?"
+  flavor: >
+    "You rang?"
   artist: Holmberg, Vega, Werner
   rarity: C
 
@@ -1185,7 +1197,8 @@
         Choose any one Magi in play. Discard 15 Chaos Counters from Chaos
         Sphere, and discard Chaos Sphere from play. Discard from play all
         Creatures controlled by the chosen Magi.
-  flavor: "Your time is running out."
+  flavor: >
+    "Your time is running out."
   artist: Holmberg, Vega
   rarity: R
 
@@ -1459,7 +1472,8 @@
         Choose any one Naroom Creature in play. Discard Bikneets from play.
         The chosen Creature loses no energy from opponents' attacks, Spells or
         Powers until the beginning of your next turn.
-  flavor: "Eidon's like... far out man."
+  flavor: >
+    "Eidon's like... far out man."
   artist: Vega, Goodman
   rarity: C
 
@@ -1493,7 +1507,8 @@
       cost: 2
       text: >
         Add two energy to each of your Creatures that attacked this turn.
-  flavor: "The jile roars! That means the battle is won!"
+  flavor: >
+    "The jile roars! That means the battle is won!"
   artist: Holmberg, Gillette
   rarity: C
 
@@ -1683,7 +1698,8 @@
     half of their starting energy, rounded up.
     Naroom Shadow Magi may play Deadfall.
   shadow_play: Naroom
-  flavor: "It's a trap!"
+  flavor: >
+    "It's a trap!"
   artist: Christopher, Shreve
   rarity: R
 
@@ -1781,7 +1797,8 @@
         played again this turn.
         Orothe Shadow Magi may play Phrup.
   shadow_play: Orothe
-  flavor: "Thanks for the info. Maybe later..."
+  flavor: >
+    "Thanks for the info. Maybe later..."
   artist: Vega, Goodman
   rarity: C
 
@@ -1827,7 +1844,8 @@
         one Weethan can use Impede each turn.
         Orothe Shadow Magi may play Weethan.
   shadow_play: Orothe
-  flavor: "Hey! Stop that!"
+  flavor: >
+    "Hey! Stop that!"
   artist: Holmberg, Vega
   rarity: R
 
@@ -1882,7 +1900,8 @@
         the most energy. If two or more Creatures are tied for the most
         energy, an opponent of your choice chooses which Creature gets the
         energy.
-  flavor: "It's out of control!"
+  flavor: >
+    "It's out of control!"
   artist: Holmberg, Vega, Goodman
   rarity: R
 
@@ -1929,7 +1948,8 @@
         discard pile. If the card is a Creture, discard Orothean Horn from
         play. Play the Creature with its starting energy, without paying any
         costs.
-  flavor: "Who is it?"
+  flavor: >
+    "Who is it?"
   artist: Werner
   rarity: R
 
@@ -2309,7 +2329,7 @@
         Name any one Power or Effect. Until the end of your next turn, no
         player may use the named Power or Effect.
   flavor: |
-    "And when all else fails, you can take off the belt and whip' em with it."
+    "And when all else fails, you can take off the belt and whip 'em with it."
     -- 'Rayje's Journal'
   artist: Holmberg, Gillette
   rarity: R
@@ -2338,7 +2358,8 @@
     Play "Ummm...NO!" only when an opponent plays a Spell that specifically
     discards one of your Creatures in play. Your Creature is not discarded
     from play. You may play "Ummm...NO!" during your opponents' turns.
-  flavor: "I'm sure."
+  flavor: >
+    "I'm sure."
   artist: Holmberg
   rarity: U
 

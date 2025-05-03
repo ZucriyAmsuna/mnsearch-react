@@ -100,7 +100,8 @@
         normal two.
     - name:
       text: If Elios is defeated, discard all but five cards from your hand.
-  flavor: "I'll be fine. No, really. I have it under control."
+  flavor: >
+    "I'll be fine. No, really. I have it under control."
   artist: Werner, Gillette, Goodman
   rarity: U
 
@@ -298,7 +299,8 @@
         turn.
   text: Cald Shadow Magi may play Silth Giant.
   shadow_play: Cald
-  flavor: "It came out of nowhere -- I just hope it went back there."
+  flavor: >
+    "It came out of nowhere -- I just hope it went back there."
   artist: Werner, Gillette, Goodman
   rarity: R
 
@@ -334,7 +336,8 @@
         Once per turn, when one of your Cald Spells or Powers discards energy
         from one or more opposing Creatures, you may add one energy to Amanax
         for each energy discarded.
-  flavor: "I feel your pain."
+  flavor: >
+    "I feel your pain."
   artist: Cook, Gillette, Holmberg
   rarity: R
 
@@ -529,7 +532,8 @@
       text: >
         Whenever a player plays a Relic from his or her hand, discard it from
         play.
-  flavor: "I've got more rocks than you have toys."
+  flavor: >
+    "I've got more rocks than you have toys."
   artist: Werner, Gillette, Holmberg
   rarity: R
 
@@ -550,7 +554,8 @@
       text: >
         Whenever an opposing Creature is discarded from play or reduced to
         zero energy by one of your cards, draw a card.
-  flavor: "I'll show you jellybeans!"
+  flavor: >
+    "I'll show you jellybeans!"
   artist: Werner, Gillette, Goodman
   rarity: U
 
@@ -1282,7 +1287,8 @@
         Whenever an opposing Magi plays a Creature with starting energy less
         than the current energy of your smallest Kybar's Teeth Creature in
         play, add three energy to Kazm.
-  flavor: "You think that little guy will save you? Think again!"
+  flavor: >
+    "You think that little guy will save you? Think again!"
   artist: Werner, Gillette, Goodman
   rarity: U
 
@@ -1304,7 +1310,8 @@
         Teeth Creature with starting energy less than the discarded Creature's
         starting energy. Play the chosen Creature with its starting energy.
         That Creature may not attack this turn.
-  flavor: "Oh yeah? You and whose dream army?"
+  flavor: >
+    "Oh yeah? You and whose dream army?"
   artist: Holmberg
   rarity: R
 
@@ -1340,7 +1347,8 @@
       text: >
         Whenever your last Creature in play is discarded, add four energy to
         Ullig.
-  flavor: "A coward fears a fight. A hero fights his fear."
+  flavor: >
+    "A coward fears a fight. A hero fights his fear."
   artist: Werner, Gillette, Goodman
   rarity: U
 

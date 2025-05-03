@@ -1022,7 +1022,7 @@
     opponent's turn. Discard a card from your hand. When you reveal your next
     Magi, choose an opposing Creature. Gain control of the chosen Creature,
     and restore it to its starting energy. The chosen Creature becomes Core
-    instead of its original region(s), and cannot attack this turn.
+    instead of its original region(s), and cannot attack that turn.
     You can only play one Spirit Spell per Magi defeated.
   flavor: |
     "Outta my way, punk!"
@@ -3982,7 +3982,7 @@
   flavor: |
     Roasted Twunk - 5 animite
     -- From the menu at Gar's Fried Eebit Shack
-  artist: Holmberg, Boime
+  artist: Holmberg, Bolme
   rarity: C
 
 - reference: Wasperine Stalker
@@ -4526,7 +4526,7 @@
   starting:
     - Mydra
     - Torpar
-    - "[Pok's Circlet]"
+    - Pok's Circlet
   effects:
     - name: Brilliantly Absent-Minded
       text: >
