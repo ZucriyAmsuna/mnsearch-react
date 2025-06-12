@@ -91,6 +91,21 @@
   alt_play: Core
   artist: Werner
 
+- name: Cactus Hyren
+  type: Creature
+  region: d'Resh
+  cost: 7
+  effects:
+    - name: Pierce
+      text: |
+        As Cactus Hyren attacks a Creature with six or more energy,
+        remove three energy from that Creature.
+  flavor: |
+    "Never play a game of tag with one of these guys."
+    -- Drajan, Elder
+  artist: Holmberg
+  rarity: P
+
 #
 # Kybar's Teeth
 
