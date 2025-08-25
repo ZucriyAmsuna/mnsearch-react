@@ -555,7 +555,7 @@
 - name: Wildfire
   region: Cald
   type: Spell
-  cost: 2
+  cost: 5
   text: >
     Choose any one non-Cald region. Discard two energy from each Creature in
     play of the chosen region.
