@@ -1372,9 +1372,9 @@
   type: Spell
   region: Core
   cost: 4
-  text: >
+  text: |
     All players reveal their hands and discard all Spell cards shown.
-  text: Sands of d'Resh Magi may play Mind Blank.
+    Sands of d'Resh Magi may play Mind Blank.
   alt_play: d'Resh
   flavor: You... know... not!
   artist: Gillette, Holmberg
