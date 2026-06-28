@@ -21839,7 +21839,7 @@
         "effects": [
             {
                 "name": "Snuggles",
-                "text": "As the beginning of your turn, if your Magi is Nar, you may discard Saitorr from play. If you do, draw a card for each energy on your Magi above his or her starting energy, to a maximum of five.\n"
+                "text": "At the beginning of your turn, if your Magi is Nar, you may discard Saitorr from play. If you do, draw a card for each energy on your Magi above his or her starting energy, to a maximum of five.\n"
             }
         ],
         "flavor": "\"They're bouncy flouncy trouncy pouncy fun fun fun fun fun!\"\n",
